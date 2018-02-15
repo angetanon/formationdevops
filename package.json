@@ -1,0 +1,22 @@
+{
+  "name": "formationdevops",
+  "version": "1.0.0",
+  "description": "\"formationdevops\"",
+  "main": "index.js",
+  "scripts": {
+"test": "mocha tests"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angetanon/formationdevops.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angetanon/formationdevops/issues"
+  },
+  "homepage": "https://github.com/angetanon/formationdevops#readme",
+  "devDependencies": {
+    "should": "^13.2.1"
+  }
+}
