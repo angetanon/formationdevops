@@ -8,6 +8,6 @@ it("should create the user with the correct name",
 function(){
 debugger
 var tom = new User("tom");
-tom.name.should.be.equal("tom");
+tom.name.should.be.equal("tommy");
 });
 });
